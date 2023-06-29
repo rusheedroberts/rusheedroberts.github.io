@@ -11,12 +11,12 @@ body,html {
 }
 
 h1 {
-    font-size:3rem;
+    font-size: 3rem;
     color: #AA3939;
 }
 
 .buffer {
-  height: 10rem;
+  height: 12rem;
 }
 
 hr {
